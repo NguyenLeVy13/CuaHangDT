@@ -1,0 +1,25 @@
+/*
+* Custom Css for backend 
+*/
+#customize-control-dreshion_blog_slider_custom_subtitle_2,
+#customize-control-dreshion_blog_slider_custom_subtitle_3,
+#customize-control-dreshion_blog_slider_custom_subtitle_4,
+#customize-control-dreshion_blog_slider_custom_subtitle_5,
+#customize-control-dreshion_blog_slider_custom_btn_2,
+#customize-control-dreshion_blog_slider_custom_btn_3,
+#customize-control-dreshion_blog_slider_custom_btn_4,
+#customize-control-dreshion_blog_slider_custom_btn_5,
+#customize-control-dreshion_blog_slider_post_2,
+#customize-control-dreshion_blog_slider_post_3,
+#customize-control-dreshion_blog_slider_post_4,
+#customize-control-dreshion_blog_slider_post_5,
+#customize-control-dreshion_blog_slider_custom_separator_1,
+#customize-control-dreshion_blog_slider_custom_separator_2,
+#customize-control-dreshion_blog_slider_custom_separator_3,
+#customize-control-dreshion_blog_slider_custom_separator_4,
+#customize-control-dreshion_blog_slider_custom_separator_5,
+#customize-control-dreshion_blog_featured_slider_dot_enable,
+#customize-control-dreshion_blog_featured_slider_arrow_enable{
+	display: none !important;
+	visibility: hidden;
+}

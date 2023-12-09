@@ -1,0 +1,9 @@
+== 1.0.1: 2023-11-29 ==
+- New: Theme URI updated.
+- Imp: Slider responsive height improvised.
+- Fix: Dynamic color for meta fixed.
+Meta tags design edits done.
+Margin added for primary menu.
+
+== 1.0.0: 2023-11-28 ==
+- New: Submitted on trac.
